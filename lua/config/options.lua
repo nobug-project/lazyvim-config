@@ -28,3 +28,6 @@ opt.jumpoptions = "stack"
 
 -- Disable spell check by default
 opt.spell = false
+
+-- Disable UI animation by default (`<leader>ua` to toggle)
+vim.g.snacks_animate = false
