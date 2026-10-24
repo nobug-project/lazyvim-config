@@ -31,3 +31,6 @@ opt.spell = false
 
 -- Disable UI animation by default (`<leader>ua` to toggle)
 vim.g.snacks_animate = false
+
+-- Disable auto format on save (`<leader>uf` to toggle)
+vim.g.autoformat = false
